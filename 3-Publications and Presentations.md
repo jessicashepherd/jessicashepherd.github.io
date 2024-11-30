@@ -5,7 +5,7 @@ title: Publications and Presentations
 ---
 # Publications
 
-##### Jess Shepherd (forthcoming) *StOp RePeAtInG mE!: The prosody of mocking repetition in American English​*
+##### **Jess Shepherd** (forthcoming) *StOp RePeAtInG mE!: The prosody of mocking repetition in American English​*
 
 ##### Joseph Stanley and **Jessica Shepherd**. Manuscript. “LTH Affrication: A Sociolinguistic Indicator in the American West.”
 
