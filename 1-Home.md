@@ -7,4 +7,4 @@ I am currently a PhD student in linguistics in the [Department of Linguistics, L
 
 I currently work as a graduate assistant for the [MI Diaries](https://mi-diaries.org/) project. This project is working on documenting language change in Michigan through self-recorded audio diaries. 
 
-My current research project is looking at the sound changes in post-tonic /tən/ sequences, like in the words *button* and *mitten*, in Michigan. Specifically, I look at the realization of /t/ in this environment. Preliminary results suggest that speakers in Michigan are starting to use a flap more often, but I plan to confirm this through further research and larger data collection in the coming months.
+My current research project is looking at the sound changes in post-tonic /tən/ sequences, like in the words *button* and *mitten*, in Michigan. Specifically, I look at the realization of /t/ in this environment. Preliminary results suggest that speakers in Michigan are starting to use a flap more often, but I plan to confirm this through further research and more data collection in the coming months.
